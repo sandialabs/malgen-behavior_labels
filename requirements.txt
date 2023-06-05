@@ -1,0 +1,26 @@
+# local package
+-e .
+
+# general data
+numpy==1.19.1
+scikit-learn==0.23.2
+pandas==1.1.1
+Pillow==7.2.0
+pytest==6.0.1
+pytest-cov==2.10.1
+
+# for testing
+coverage==5.2.1
+xlrd==1.2.0
+openpyxl==3.0.5
+python-dotenv>=0.5.1
+
+# for baseline
+torch==1.6.0
+torchvision==0.7.0
+tensorboard==2.3.0
+
+# for malconv
+tensorboard==2.3.0
+tensorflow==2.2.0
+keras==2.4.3
