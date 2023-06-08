@@ -1,5 +1,6 @@
 data/MBC_Labels.xlsx filter=lfs diff=lfs merge=lfs -text
 data/microsoftdata_behaviors.xlsx filter=lfs diff=lfs merge=lfs -text
+threat_reports/data/vectorsfull_300.txt filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
